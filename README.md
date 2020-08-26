@@ -1,6 +1,6 @@
 ### Hi there, Im Mustafa 👋
 
-## I'm a student at College of Østfold and im in my first year of IT
+## I'm a student at College of Østfold in Norway and studying IT
 
 - 😄 My interests are varied, im into most things such as gaming, anime, movies, music, sports and IT
 - 🔭 I’m currently working on various project that are not yet pulished on github
