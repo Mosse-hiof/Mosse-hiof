@@ -4,7 +4,7 @@
 
 - 😄 My interests are varied, im into most things such as gaming, anime, movies, music, sports and IT
 - 🔭 I’m currently working on various project that are not yet pulished on github
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning everything
 - 👯 If you are one my classmates and you are looking for someone to work together with or need help with anything hit me up
 - 🥅 2020 Goals: Master Python as much as possible, pass all exams
 - ⚡ Fun fact: Cheese is not considered a carbohydrate
