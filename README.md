@@ -19,6 +19,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosse-hiof" alt="mosse-hiof" /> </p>
 
 [facebook]:https://www.facebook.com/profile.php?id=722111722
-[website]:https://mosse-hiof.github.io/Mosse-hiof/
+[website]:https://mosse-hiof.github.io/Mosse-hiof/DigiFab
 [linkedin]:https://www.linkedin.com/in/mustafa-sahin-3a18521b3/
 [outlook]:mustafa.sahin@hiof.no
