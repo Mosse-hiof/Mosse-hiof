@@ -2,12 +2,12 @@
 
 ## I'm a student at the college of Østfold in Norway and studying IT
 
-- 😄 My interests are varied, im into most things such as gaming, anime, movies, music, sports and IT
+- 😄 My interests are varied, im into most things such as gaming, anime, movies, music and sports
 - 🔭 I’m currently working on various project that are not yet pulished on github
 - 🌱 I’m currently learning everything
 - 👯 If you are one my classmates and you are looking for someone to work together with or need help with anything hit me up
-- 🥅 2020 Goals: Master Python as much as possible, pass all exams
-- ⚡ Fun fact: Cheese is not considered a carbohydrate
+- 🥅 2020 Goals: Survive
+- ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
 
 ### Connect with me:
 
