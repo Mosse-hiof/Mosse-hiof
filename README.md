@@ -5,9 +5,6 @@
 - 😄 My interests are varied, im into most things such as gaming, anime, movies, music and sports
 - 🔭 I’m currently working on various project that are not yet pulished on github
 - 🌱 I’m currently learning everything
-- 👯 If you are one my classmates and you are looking for someone to work together with or need help with anything hit me up
-- 🥅 2020 Goals: Survive
-- ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
 
 ### Connect with me:
 
@@ -18,7 +15,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosse-hiof" alt="mosse-hiof" /> </p>
 
-[facebook]:https://www.facebook.com/profile.php?id=722111722
-[website]:https://mosse-hiof.github.io/DigiFab
-[linkedin]:https://www.linkedin.com/in/mustafa-sahin-3a18521b3/
 [outlook]:mustafa.sahin@hiof.no
