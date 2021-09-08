@@ -8,10 +8,7 @@
 
 ### Connect with me:
 
-[<img alighn="left" height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img alighn="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img alighn="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />][outlook]
-[<img alighn="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosse-hiof" alt="mosse-hiof" /> </p>
 
