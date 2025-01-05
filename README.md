@@ -6,10 +6,6 @@
 - 🔭 I’m currently working on various project that are not yet pulished on github
 - 🌱 I’m currently learning everything
 
-### Connect with me:
-
-[<img alighn="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />][outlook]
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosse-hiof" alt="mosse-hiof" /> </p>
 
 [outlook]:mustafa.sahin@hiof.no
