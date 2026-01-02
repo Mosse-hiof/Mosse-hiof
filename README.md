@@ -1,5 +1,4 @@
-im tired boss
+Endless job oppurtunitys they said, printing money they said
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mosse-hiof" alt="mosse-hiof" /> </p>
 
-[outlook]:mustafa.sahin@hiof.no
+[outlook]:mosse01_@hotmail.com
